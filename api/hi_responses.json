@@ -1,0 +1,17 @@
+{
+  "responses": [
+    {"nsfw": true, "response": "Fuck Off"},
+    {"nsfw": false, "response": "No"},
+    {"nsfw": false, "response": "Bye"},
+    {"nsfw": false, "response": "I got no money. Whatca want?"},
+    {"nsfw": false, "response": "Low"},
+    {"nsfw": false, "response": "WHAT!?"},
+    {"nsfw": true, "response": "I'm busy with yo mama, try again later"},
+    {"nsfw": false, "response": "Oh look who it is, the ruler of balls"},
+    {"nsfw": true, "response": "What the fuck do you want?"},
+    {"nsfw": false, "response": "I didn't know assholes can speak"},
+    {"nsfw": false, "response": "*Barfs*"},
+    {"nsfw": false, "response": "I have a girlfriend"},
+    {"nsfw": true, "response": "Never gonna give you up\nNever gonna let you down\nNever gonna run around and desert you\nNever gonna make you cry\nNever gonna say goodbye\nNever gonna tell a lie and hurt you"}
+  ]
+}
